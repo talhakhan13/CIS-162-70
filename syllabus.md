@@ -10,6 +10,11 @@ Email: talhakhan@gvsu.edu
 
 Office Hours: To be decided
 
+
+## Catalog Course Description
+
+The content of this syllabus is subject to change.
+
 ## Catalog Course Description
 
 Introduction to programming and computational thinking through lab and lecture. Simple and structured data types and program control structures. Problem analysis, algorithm design and implementation using a high-level language. Prerequisite: MTH 110
