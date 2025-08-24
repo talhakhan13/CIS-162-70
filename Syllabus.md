@@ -26,14 +26,6 @@ The introduction of LLM code tools such as GitHub CoPilot and ChatGPT are active
 
 This course requires patience and persistence as computational thinking/programming is a craft.  It will likely be challenging.  We are committed to your success and want to be your first source for help.  Please ask questions before, during and after class as well as visit during office hours.  I, myself, am happy to meet at other times as well.  Beyond your instructor, the Computing Success Center is a great place to find help.  Free drop-in tutoring for CIS 162 is available during specific hours during the week but it is also a great space to hang out and work with others on group work!  See [Success Center](https://www.gvsu.edu/computing/student-success-center-13.htm)  for a current schedule.  You can also contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) for one-on-one tutoring.
 
-## Faculty Support Team
-
-|||
-| Professor Ira Woodring believes that computing knowledge should be accessible for all people.  He thrives on seeing students learn, and enjoys the challenge of teaching diverse groups of learners.  His research focuses on creating accessible computing solutions for persons with disabilities.  He is an avid gamer, and loves playing (and creating) video games with his four children. <br /> Office: MAK D-2-238 |
-| Professor Erin Carrier                                        |
-| Professor Jared Moore has been at GVSU 9 years, teaching CIS 162 for the past 7.  Although, he also teaches Computer Architecture and Artificial Intelligence, 162 is probably his favorite class.  His research is in the area of evolutionary robotics and evolutionary art with collaborators Professor Fredericks (GVSU), Dr. Anthony Clark (Pomona College), and Dr. Adam Stanton (Sheffield University, UK).  Outside of computing, he is a runner, fly fisher, hockey goalie, and enjoys hiking with his wife and dog.  <br /> Office: MAK C-2-118 (In the Computing Dean’s Suite, MAK C-2-100) |
-| Professor Austin Ferguson (who often goes by Dr. Ferg), is starting his second year teaching at GVSU. His teaching (and just his life, generally) centers seeing students as humans first and asking how we can better help them achieve their goals (while teaching them cool stuff along the way!). His research uses computational systems to test evolutionary theory. He loves to be outside, making/playing video games, and capybaras. He thinks he could take Professor Woodring in most video games, but has no evidence to back this up (yet). <br /> Office: MAK C-2-216 |
-
 ## Learning Objectives
 
 After completing this course, students should be able to:
