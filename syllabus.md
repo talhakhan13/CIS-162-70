@@ -81,7 +81,7 @@ You will complete a lab exam towards the end of the term.  This is your opportun
 
 ## Final Exam
 
-A common final exam is taken by all CIS 162 sections on the Saturday morning before final exam week – December 6th 9:00 - 11:00 am. 
+the final exam will be available on Saturday, December 6th, from 9:00AM - 3PM (EST). You must complete and submit the exam within that window to receive credit.
 
 ## Course Policies
 
