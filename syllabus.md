@@ -69,15 +69,10 @@ Projects will also be posted on PrairieLearn. Projects are completed on your own
 
 While a certain amount of consultation between students working on a project is encouraged, the work you submit must be your own. Do not create a difficult situation by representing someone else's work as your own.  Make sure you cite your resources. For more information, consult the [Student Code](https://www.gvsu.edu/policies/category.htm?categoryId=2D0C8EF7-9959-9B01-959C403E725313F3), and the [College of Computing Guidelines for Academic Honesty](https://www.gvsu.edu/computing/academic-honesty-30.htm).
 
-## Classroom Activities / Attendance
-
-Attendance in class is required.  We will use some lecture time to engage in peer instruction.  You will work on group activities related to programming exercises.  These group activities have shown to be effective at increasing student motivation, academic performance, and attendance.  Some activities will be graded for the “In Class Activities” portion of your overall grade.
-
-Students learn best when attending class regularly. 
 
 ## Midterm Exams
 
-You will take two midterm exams in-class during lab to demonstrate your understanding of key concepts and problem-solving skills. 
+You will complete two midterm exams online, asynchronously. These exams are designed to assess your understanding of key concepts and your ability to apply problem-solving skills. Each exam will be available within a specified time window, and you must complete it by the posted deadline.
 
 ## Lab Exam
 
