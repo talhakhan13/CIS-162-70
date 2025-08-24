@@ -61,11 +61,11 @@ Our main e-textbook is “Python Crash Course, 3rd Edition” by Eric Matthes.  
 
 ## Lab Activities
 
-Our class meets each week for two hours in a computer lab. Attendance in lab is strictly required and half of your lab grade is based on attendance. To receive credit for attending, you must stay for the entire lab or until you finish the lab using your own work (e.g. simply dropping the entire lab into AI and attempting to leave will not receive credit). You will be given an activity that must be completed before the next week’s lab. You will work with a lab partner each week. This approach is called pair programming and is often used in industry to make the process more productive and enjoyable.
+Our class is structured as a fully online, asynchronous course. Instead of meeting in a physical lab each week, you will complete weekly lab modules posted on PrairieLearn. To receive credit, you must complete all assigned tasks with your own original work (e.g., simply pasting the entire lab into an AI tool without doing the work yourself will not receive credit). Each week, you will be given a lab activity that must be submitted by the deadline before the next module opens. 
 
 ## Programming Projects
 
-Projects are completed on your own time outside of class. The three projects increase in complexity as your abilities improve.  You will need to start early and budget enough time to complete the projects. 
+Projects will also be posted on PrairieLearn. Projects are completed on your own time outside of class. The three projects increase in complexity as your abilities improve.  You will need to start early and budget enough time to complete the projects. 
 
 While a certain amount of consultation between students working on a project is encouraged, the work you submit must be your own. Do not create a difficult situation by representing someone else's work as your own.  Make sure you cite your resources. For more information, consult the [Student Code](https://www.gvsu.edu/policies/category.htm?categoryId=2D0C8EF7-9959-9B01-959C403E725313F3), and the [College of Computing Guidelines for Academic Honesty](https://www.gvsu.edu/computing/academic-honesty-30.htm).
 
