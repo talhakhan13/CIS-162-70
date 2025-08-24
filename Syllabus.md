@@ -4,7 +4,7 @@
 
 ## Instructor Information
 
-Instructor: Talha
+Instructor: Talha Khan
 
 Email: talhakhan@gvsu.edu
 
