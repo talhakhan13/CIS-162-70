@@ -11,9 +11,9 @@ Email: talhakhan@gvsu.edu
 Office Hours: To be decided
 
 
-## Catalog Course Description
+## Disclaimer
 
-The content of this syllabus is subject to change.
+The content of this syllabus is subject to change as per instructor discretion.
 
 ## Catalog Course Description
 
