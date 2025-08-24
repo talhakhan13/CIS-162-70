@@ -1,19 +1,14 @@
 # CIS 162 - Computer Science I - Fall 2025
-# Section XX
+# Section 70
 # GVSU College of Computing
 
 ## Instructor Information
 
-Instructor:
+Instructor: Talha
 
-Office:
+Email: talhakhan@gvsu.edu
 
-Phone:
-
-Email:
-
-Office Hours:
-    - 
+Office Hours: To be decided
 
 ## Catalog Course Description
 
@@ -35,13 +30,10 @@ This course requires patience and persistence as computational thinking/programm
 
 |||
 |----------|---------------------------------------------------------------|
- |<img src="./images/woodring.png" width="450px" />          | Professor Ira Woodring believes that computing knowledge should be accessible for all people.  He thrives on seeing students learn, and enjoys the challenge of teaching diverse groups of learners.  His research focuses on creating accessible computing solutions for persons with disabilities.  He is an avid gamer, and loves playing (and creating) video games with his four children. <br /> Office: MAK D-2-238 |
-| <img src="./images/carrier.png" width="450px" />         | Professor Erin Carrier                                        |
-|<img src="./images/moore.png" width="450px" />          | Professor Jared Moore has been at GVSU 9 years, teaching CIS 162 for the past 7.  Although, he also teaches Computer Architecture and Artificial Intelligence, 162 is probably his favorite class.  His research is in the area of evolutionary robotics and evolutionary art with collaborators Professor Fredericks (GVSU), Dr. Anthony Clark (Pomona College), and Dr. Adam Stanton (Sheffield University, UK).  Outside of computing, he is a runner, fly fisher, hockey goalie, and enjoys hiking with his wife and dog.  <br /> Office: MAK C-2-118 (In the Computing Dean’s Suite, MAK C-2-100) |
-|<img src="./images/ferguson.png" width="450px" />          | Professor Austin Ferguson (who often goes by Dr. Ferg), is starting his second year teaching at GVSU. His teaching (and just his life, generally) centers seeing students as humans first and asking how we can better help them achieve their goals (while teaching them cool stuff along the way!). His research uses computational systems to test evolutionary theory. He loves to be outside, making/playing video games, and capybaras. He thinks he could take Professor Woodring in most video games, but has no evidence to back this up (yet). <br /> Office: MAK C-2-216 |
-|           | |
-|           | |
-|           | |
+| Professor Ira Woodring believes that computing knowledge should be accessible for all people.  He thrives on seeing students learn, and enjoys the challenge of teaching diverse groups of learners.  His research focuses on creating accessible computing solutions for persons with disabilities.  He is an avid gamer, and loves playing (and creating) video games with his four children. <br /> Office: MAK D-2-238 |
+| Professor Erin Carrier                                        |
+| Professor Jared Moore has been at GVSU 9 years, teaching CIS 162 for the past 7.  Although, he also teaches Computer Architecture and Artificial Intelligence, 162 is probably his favorite class.  His research is in the area of evolutionary robotics and evolutionary art with collaborators Professor Fredericks (GVSU), Dr. Anthony Clark (Pomona College), and Dr. Adam Stanton (Sheffield University, UK).  Outside of computing, he is a runner, fly fisher, hockey goalie, and enjoys hiking with his wife and dog.  <br /> Office: MAK C-2-118 (In the Computing Dean’s Suite, MAK C-2-100) |
+| Professor Austin Ferguson (who often goes by Dr. Ferg), is starting his second year teaching at GVSU. His teaching (and just his life, generally) centers seeing students as humans first and asking how we can better help them achieve their goals (while teaching them cool stuff along the way!). His research uses computational systems to test evolutionary theory. He loves to be outside, making/playing video games, and capybaras. He thinks he could take Professor Woodring in most video games, but has no evidence to back this up (yet). <br /> Office: MAK C-2-216 |
 
 ## Learning Objectives
 
