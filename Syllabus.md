@@ -29,7 +29,6 @@ This course requires patience and persistence as computational thinking/programm
 ## Faculty Support Team
 
 |||
-|----------|---------------------------------------------------------------|
 | Professor Ira Woodring believes that computing knowledge should be accessible for all people.  He thrives on seeing students learn, and enjoys the challenge of teaching diverse groups of learners.  His research focuses on creating accessible computing solutions for persons with disabilities.  He is an avid gamer, and loves playing (and creating) video games with his four children. <br /> Office: MAK D-2-238 |
 | Professor Erin Carrier                                        |
 | Professor Jared Moore has been at GVSU 9 years, teaching CIS 162 for the past 7.  Although, he also teaches Computer Architecture and Artificial Intelligence, 162 is probably his favorite class.  His research is in the area of evolutionary robotics and evolutionary art with collaborators Professor Fredericks (GVSU), Dr. Anthony Clark (Pomona College), and Dr. Adam Stanton (Sheffield University, UK).  Outside of computing, he is a runner, fly fisher, hockey goalie, and enjoys hiking with his wife and dog.  <br /> Office: MAK C-2-118 (In the Computing Dean’s Suite, MAK C-2-100) |
