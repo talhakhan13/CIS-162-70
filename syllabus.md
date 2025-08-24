@@ -45,7 +45,9 @@ After completing this course, students should be able to:
 
 ## Learning Management System
 
-Course documents, videos, assignments, grades, links, and announcements will be posted to Blackboard.  Labs and projects will be posted and completed on PrairieLearn.  It is your responsibility to stay informed.
+Course documents, videos, assignments, grades, links, and announcements will be posted to Blackboard.  
+
+Labs and projects will be posted and completed on PrairieLearn. It is your responsibility to stay informed.
 
 ## Programming Language and IDE
 
