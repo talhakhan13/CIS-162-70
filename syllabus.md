@@ -1,4 +1,4 @@
-# CIS 162 - Computer Science I - Fall 2025
+# CIS 162 - Computer Science I - Fall 2025 (Online Asynchronous)
 # Section 70
 # GVSU College of Computing
 
