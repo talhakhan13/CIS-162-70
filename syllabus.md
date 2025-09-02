@@ -8,7 +8,7 @@ Instructor: Talha Khan
 
 Email: talhakhan@gvsu.edu
 
-Office Hours: To be decided
+Office Hours: Wednesday 4PM - 5PM
 
 
 ## Disclaimer
@@ -81,7 +81,7 @@ You will complete a lab exam towards the end of the term.  This is your opportun
 
 ## Final Exam
 
-the final exam will be available on Saturday, December 6th, from 9:00AM - 3PM (EST). You must complete and submit the exam within that window to receive credit.
+The final exam will be available on Saturday, December 6th, from 9:00AM - 3PM (EST). You must complete and submit the exam within that window to receive credit.
 
 ## Course Policies
 
